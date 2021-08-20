@@ -23,3 +23,5 @@
   ![Snake animation](https://github.com/Romerozito/Romerozito/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+
+*Nasci e morei a vida toda em Irirapina-SP, tenho 22 anos, gosto de praticar vários esportes e exercícios, tenho uma ótima criavidade e gosto de sempre tentar aprender novas tecnologias*
