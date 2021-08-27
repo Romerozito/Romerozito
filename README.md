@@ -10,7 +10,6 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Romerozito&layout=compact&langs_count=7&theme=dracula"/>
     <br>
   </div>
-   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Romerozito&theme=dracula&hide_border=true)](https://git.io/streak-stats)  
   
   ##
  
